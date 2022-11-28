@@ -1,0 +1,32 @@
+body{
+    background-color: #F2E85C ;
+    font: normal 15pt Arial;
+}
+
+section{
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(58, 58, 58);
+}
+
+div{
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+}
+
+.copy{
+    text-align: center;
+    font-style: italic;
+    font-size: 10px;
+}
+
+#res{
+    font-style: italic;
+    font-size: 15px;
+}
